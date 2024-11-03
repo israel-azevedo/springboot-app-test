@@ -1,5 +1,5 @@
 # Imagem base do OpenJDK
-FROM registry.access.redhat.com/ubi9/ubi-minimal
+FROM registry.access.redhat.com/ubi9/openjdk-21
 
 # Diretório de trabalho
 WORKDIR /app
